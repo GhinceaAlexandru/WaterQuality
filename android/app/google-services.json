@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "58626165388",
+    "project_id": "watermonitor-7d316",
+    "storage_bucket": "watermonitor-7d316.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58626165388:android:ac9ff21f30bbe2442889a9",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58626165388-nfkjt3o3k2u4t6oba5274bh5v3kmpl5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD6XfJHC85YYQ-M673_OJ7ME34bj-PBnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58626165388-nfkjt3o3k2u4t6oba5274bh5v3kmpl5e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
